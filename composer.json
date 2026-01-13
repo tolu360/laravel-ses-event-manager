@@ -26,6 +26,7 @@
 	"require": {
 		"php": "^8.0",
 		"illuminate/support": "^9.0|^10.0|^11.0|^12.0",
+		"illuminate/http": "^10.0|^11.0|^12.0",
 		"aws/aws-php-sns-message-validator": "^1.6",
 		"aws/aws-sdk-php": "^3.218",
 		"symfony/psr-http-message-bridge": "^2.0",
